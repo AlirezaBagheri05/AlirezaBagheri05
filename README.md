@@ -12,7 +12,7 @@ Hello, I am a backend developer and write codes on the server using PHP language
 **My best projects**:
 - 💻 Robot Rubika power javascript in front client [GOGOLI](https://github.com/AlirezaBagheri05/ROBOT-Rubika)
 - 💻 Website music power by PHP that is my first simple website and **i love it** [Wmusic](https://github.com/AlirezaBagheri05/music-site)
-- 💻 Robot Telegram power by PHP that is my first bot in TEL and i hope that i can make big and better bots in future[ROBOT](https://github.com/AlirezaBagheri05/Robot-telegram-test)
+- 💻 Robot Telegram power by PHP that is my first bot in TEL and i hope that i can make big and better bots in future [ROBOT](https://github.com/AlirezaBagheri05/Robot-telegram-test)
 
 
 ## Skills:
