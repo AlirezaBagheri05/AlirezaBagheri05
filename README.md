@@ -9,31 +9,11 @@ Hello, I am a backend developer and write codes on the server using PHP language
 </p>
 
 
-- 💻 Currently working on PyML, a python toolkit for building some of machine learning models and state-of-the-art algorithms without using any libraries. The aim of this project is to learn machine learning algorithms from scratch.
-- 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/themlphdstudent/100DaysofMachineLearning) and [Data Science](https://github.com/themlphdstudent/100DaysofDataScience).
+**My best projects**:
+- 💻 Robot Rubika power javascript in front client [GOGOLI](https://github.com/AlirezaBagheri05/ROBOT-Rubika)
+- 💻 Website music power by PHP that is my first simple website and **i love it**[Wmusic](https://github.com/AlirezaBagheri05/music-site)
+- 💻 Robot Telegram power by PHP that is my first bot in TEL and i hope that i can make big and better bots in future[ROBOT](https://github.com/AlirezaBagheri05/Robot-telegram-test]
 
-**My Reseach Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
-
- **I am open to**:
-
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
-**Recent Update**:
-- **December 2021**: Completed Deep Learning Nano Degree by Udacity. [[Certificate]](https://graduation.udacity.com/confirm/SWLALPXD)
-- **October 2021**: A paper is accepted for publication by the Annals of Data Science Journal (Springer).
-- **October 2021**: Delivered a guest lecture on "Deploying Maching Learning Model" at IT, CSPIT, Charusat University, Changa.
-- **September 2021**: Completed Coursera course by Deeplearning.ai on AI for Everyone taught by Andrew Ng. [[Certificate]](http://coursera.org/verify/96KFJPPTU3J7)
-
-**Service to research comunity**:
-- PC Member, at The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2020 ([ECML/PKDD 2020](https://ecmlpkdd2020.net/organisation/programcommittee/)), Ghent [2020].
 
 ## Skills:
 
@@ -63,16 +43,13 @@ Hello, I am a backend developer and write codes on the server using PHP language
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://alirezazerila.ir/)
+[<img src="https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://t.me/alirezabagheri05)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/alirezabagheri05)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| alireza | bagheri |
+| my first readme | i love u |
 
 <!-- 
 ----
