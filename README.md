@@ -1,7 +1,12 @@
 
 ### Hi there, I'm [Alireza bagheri](https://alirezazerila.ir/) 👋
 
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+<p style='direction:rtl'>
+سلام من یک برنامه نویس تازه کار هستم که توسعه دهنده بکند هستم و با زبان پی اچ پی روی سرور کد پیاده میکنم. علاقه شدیدی به کار تیم و گروهی دارم و امبدوارم بتونم اتفاقات بزرگی رو رقم بزنم
+</p>
+<p style='direction:ltr'>
+Hello, I am a backend developer and write codes on the server using PHP language. I love work in a Professional team and group work and I want to make great things happen.
+</p>
 
 
 - 💻 Currently working on PyML, a python toolkit for building some of machine learning models and state-of-the-art algorithms without using any libraries. The aim of this project is to learn machine learning algorithms from scratch.
