@@ -39,12 +39,12 @@ Hello, I am a backend developer and write codes on the server using PHP language
 
 #### Languages:
 
-![PHP](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![BootStrap](https://img.shields.io/badge/BootStrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=white);
-![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-e67418?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-008cdd?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-e61866?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![BootStrap](https://img.shields.io/badge/BootStrap-09dca3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-df1500?style=for-the-badge&logo=css&logoColor=white);
+![HTML](https://img.shields.io/badge/HTML-00df15?style=for-the-badge&logo=html&logoColor=white)
 
 #### ML/DL
 
