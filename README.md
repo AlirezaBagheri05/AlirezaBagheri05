@@ -51,9 +51,9 @@ Hello, I am a backend developer and write codes on the server using PHP language
 | Built projects  | Projects under construction |
 | ------------- | ------------- |
 | Robot Telegram  | Robots Telegram  |
-| Robot Rubika  | personal website  |
-| Website music  | Store website  |
-| Login page  |   |
+| Robot Rubika  | Store website  |
+| Website music  |
+| personal website  | 
 
 <!-- 
 ----
