@@ -2,7 +2,7 @@
 ### Hi there, I'm [Alireza bagheri](https://alirezazerila.ir/) 👋
 
 <p style='direction:rtl'>
-سلام من یک برنامه نویس تازه کار هستم که توسعه دهنده بکند هستم و با زبان پی اچ پی روی سرور کد پیاده میکنم. علاقه شدیدی به کار تیم و گروهی دارم و امیدوارم بتونم اتفاقات بزرگی رو رقم بزنم
+سلام من یک توسعه دهنده بکند هستم و با زبان پی اچ پی روی سرور کد پیاده میکنم. علاقه شدیدی به کار تیم و گروهی دارم و امیدوارم بتونم اتفاقات بزرگی رو رقم بزنم
 </p>
 <p style='direction:ltr'>
 Hello, I am a backend developer and write codes on the server using PHP language. I love work in a Professional team and group work and I want to make great things happen.
