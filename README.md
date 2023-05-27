@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Alireza bagheri](https://alirezazerila.ir/) 👋
+### Hi there, I'm [Alireza bagheri](https://l8pstudio.ir/) 👋
 
 <p style='direction:rtl'>
 سلام من یک توسعه دهنده بکند هستم و با زبان پی اچ پی روی سرور کد پیاده میکنم. علاقه شدیدی به کار تیم و گروهی دارم و امیدوارم بتونم اتفاقات بزرگی رو رقم بزنم
@@ -43,8 +43,8 @@ Hello, I am a backend developer and write codes on the server using PHP language
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](http://www.alirezazerila.ir/)
-[<img src="https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://t.me/alirezabagheri05)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](http://www.l8pstudio.ir/)
+[<img src="https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://t.me/Aliiiiiireza69)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/alirezabagheri05)
 </p>
 
